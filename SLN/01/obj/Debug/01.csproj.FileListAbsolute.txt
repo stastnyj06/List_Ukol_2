@@ -1,0 +1,10 @@
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\bin\Debug\01.exe.config
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\bin\Debug\01.exe
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\bin\Debug\01.pdb
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\01.csproj.AssemblyReference.cache
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\_01.Form1.resources
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\_01.Properties.Resources.resources
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\01.csproj.GenerateResource.cache
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\01.csproj.CoreCompileInputs.cache
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\01.exe
+C:\Users\stast\OneDrive\Plocha\PRG\ukol\ukol 22.10\SLN\01\obj\Debug\01.pdb
